@@ -1,0 +1,728 @@
+@media (max-width: 1600px) {
+    .sub-more-section h2 {
+        font-size: 22px;
+    }
+
+    .img-more-section {
+        width: 80px;
+        height: 80px;
+    }
+
+    .sub-more-section {
+        height: 140px;
+    }
+
+    .img-slider-new-article {
+        height: 275px;
+    }
+
+    .main-article-index {
+        height: 600px;
+    }
+
+    .sub-article-index:nth-of-type(1) {
+        height: 600px;
+    }
+
+    h2 {
+        font-size: 19px;
+    }
+
+    .title-page h2 {
+        font-size: 25px;
+    }
+
+    .img-article-details {
+        width: 100%;
+        height: 430px;
+    }
+
+    .text-details h2 {
+        line-height: 35px;
+        font-size: 21px;
+    }
+
+    .number-calorie ul li {
+        font-size: 17px;
+    }
+
+    .need-calorie span {
+        font-size: 20px;
+    }
+
+    .number-calorie ul {
+        flex-wrap: wrap;
+    }
+
+    .number-calorie ul li {
+        font-size: 17px;
+        width: 100%;
+        border-bottom: 3px solid #FCD161;
+    }
+
+    .number-calorie ul {
+        border-bottom: none;
+    }
+
+    .need-calorie h3 {
+        color: #3B666A;
+        font-size: 17px;
+        line-height: 33px;
+    }
+
+    .need-calorie {
+        padding: 50px 20px;
+
+    }
+
+    .title-pregnancy-calculator p {
+        font-size: 19px;
+        color: var(--color-main);
+        margin: 10px 0 0;
+    }
+
+    .page-contents ul li {
+        width: 29%;
+
+    }
+
+    .img-health-beaut {
+        height: 400px;
+        width: 100%;
+        position: relative;
+    }
+
+    .img-silder-categories {
+        height: 340px;
+        width: 100%;
+    }
+}
+
+
+
+@media (max-width: 1400px) {
+    .img-more-section {
+        width: 65px;
+        height: 65px;
+    }
+
+    .sub-more-section h2 {
+        font-size: 18px;
+    }
+
+    .sub-more-section {
+        height: 120px;
+    }
+
+    .text-article-index p {
+        font-size: 17px;
+    }
+
+    .text-details h2 {
+        margin: 20px 0;
+        line-height: 30px;
+        font-size: 18px;
+    }
+
+    .img-read-article-index {
+        width: 155px;
+        height: 87px;
+    }
+
+    .img-article-details {
+        height: 430px;
+    }
+
+    .text-article-details p {
+        font-size: 18px;
+        line-height: 38px;
+    }
+
+    .img-health-beaut {
+        height: 400px;
+    }
+
+    .sub-info-contactus {
+        display: flex;
+        margin-bottom: 15px;
+        width: 90%;
+    }
+    iframe {
+        width: 100%;
+        height: 450px;
+    }
+}
+
+@media (max-width: 1395px) {
+    .sub-read-article-index p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .sub-read-article-index .date-article {
+        font-size: 15px;
+    }
+
+    .img-element {
+        height: 101px;
+    }
+
+    .img-element img {
+        max-width: 60px;
+    }
+
+    .text-read-also-article p {
+        margin-top: 16px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .text-slider-new-article h3,
+    .date-article {
+        font-size: 15px;
+        color: var(--bg-1);
+    }
+
+    .img-read-also-article {
+        height: 160px;
+    }
+
+    .main-read-also-article {
+        height: 790px;
+    }
+
+    .sub-read-also-article:nth-of-type(1) .img-read-also-article {
+        width: 100%;
+        height: 330px;
+    }
+
+    .sub-read-also-article:nth-of-type(1) .text-read-also-article p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    table {
+        width: 50%;
+    }
+
+    .img-silder-categories {
+        height: 310px;
+        width: 100%;
+    }
+
+    .text-silder-categories h2 {
+        line-height: 27px;
+        font-size: 17px;
+    }
+
+    .title-silder-advice h2 {
+        font-size: 23px;
+    }
+
+    .sub-medicine-health {
+        height: 340px;
+        position: relative;
+        margin: 10px 0;
+    }
+
+    .text-medicine-health h2 {
+        font-size: 17px;
+
+    }
+    .date-pregnancy p {
+        font-size: 14px;
+    }
+
+    .date-pregnancy p {
+        font-size: 14px;
+    }
+    .sub-stages-pregnancy h2 {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .search-header {
+        width: 75%;
+    }
+
+    .sub-footer p {
+        margin: 50px 0;
+        font-size: 14px;
+        width: 80%;
+        line-height: 29px;
+    }
+
+    .element-footer ul li a {
+        padding: 0 20px;
+        font-size: 17px;
+    }
+
+    .media-footer ul li a {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .img-big-article-index {
+        height: 300px;
+    }
+
+    .sub-header {
+        min-height: 440px;
+    }
+
+    .logo {
+        max-width: 215px;
+    }
+
+    .top-par {
+
+        align-items: center;
+    }
+
+    .img-element img {
+        max-width: 43px;
+    }
+
+    .sub-article-index:nth-of-type(1),
+    .main-article-index {
+
+        height: 440px;
+    }
+}
+
+@media (max-width: 992px) {
+    .element {
+        display: none;
+    }
+
+    .silder-advice {
+        position: relative;
+        margin: 40px 0;
+    }
+
+    .sub-more-section {
+        height: 120px;
+        margin: 5px 0;
+    }
+
+    .language,
+    .signin,
+    .login {
+        display: none;
+    }
+
+    .menu-div {
+        display: block;
+        width: 44px;
+        height: 25px;
+        position: relative;
+    }
+
+    .text-article-index h3 {
+        color: var(--bg-1);
+        font-size: 15px;
+    }
+
+    .big-read-article-index {
+        width: 100%;
+    }
+
+    .main-read-also-article {
+        height: auto;
+        display: block;
+    }
+
+    .sub-read-also-article {
+        margin: 15px 0;
+    }
+
+    .el-f2 ul li a {
+        padding-right: 0 !important;
+    }
+
+    .main-article-index {
+        height: auto;
+        display: block;
+    }
+
+    .sub-article-index {
+        margin: 10px 0;
+    }
+
+    .sub-article-index,
+    .sub-article-index:nth-of-type(1) {
+        margin: 10px 0;
+        height: 285px;
+    }
+
+    .more-article-details {
+        margin: 40px 0;
+    }
+
+    .img-article-details {
+        height: 320px;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    .page-contents ul li {
+        width: 46%;
+    }
+
+    .page-contents ul {
+        column-gap: 10px;
+    }
+
+    .page-contents ul li {
+        width: 100%;
+    }
+
+    .sub-calories a {
+        font-size: 16px;
+    }
+
+    .sub-calories {
+        margin: 0 0 20px;
+    }
+
+    .search-two p {
+        width: 100%;
+    }
+
+    .search-two input {
+        font-size: 14px;
+
+    }
+
+    .search-two input::placeholder {
+        font-size: 14px;
+    }
+
+    .img-health-beaut {
+        height: 300px;
+        width: 100%;
+        position: relative;
+    }
+
+    #slider-categories {
+        padding: 0 0px;
+    }
+
+    .sub-info-contactus {
+        width: 100%;
+    }
+
+    .info-contactus {
+        margin: 30px 0;
+    }
+
+    .contactus p {
+        width: 100% !important;
+    }
+
+    .form-login-page form {
+        width: 100%;
+        margin: 30px auto;
+    }
+
+    .sinin-media ul img {
+        width: 35px;
+    }
+
+    .img-humen-body {
+        height: 680px;
+        width: 27%;
+        display: flex;
+    }
+    .img-sub-human-body {
+        width: 50px;
+        height: 50px;
+    }
+    .sub-human-body li a h3 {
+        padding-right: 0px;
+    }
+    
+    .sub-human-body li a h3::after {
+        display: none;
+    }
+    .humun2.sub-human-body li a h3 {
+        padding-left: 0px !important;
+    }
+    .sub-human-body li a h3 {
+        font-size: 14px;
+    }
+    .text-calculator-details {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        margin: 70px 0;
+        flex-wrap: wrap;
+    }
+
+    .sub-text-calculator-details {
+        width: 100%;
+        text-align: center;
+    }
+    .date-pregnancy {
+        width: 55%;
+        aspect-ratio: 1/1;
+    }
+    .date-pregnancy p {
+        font-size: 18px;
+    }
+    
+    .img-calculator-details h2 {
+        font-size: 19px;
+        text-align: center;
+        line-height: 24px;
+        padding-left: 65px;
+    }    
+    .text-calculator-details {
+        margin: 0px 0;
+    }
+    .sub-pregnancy-calculator h2 {
+        font-size: 15px;
+    }
+    .sub-stages-pregnancy {
+        max-width: 300px;
+        aspect-ratio: 1 /1;
+    }
+    .question h3 {
+        font-size: 18px;
+        margin-top: 20px;
+        color: #B9D35E;
+        line-height: 28px;
+    }
+    .answer h3 {
+        font-size: 16px;
+        line-height: 30px;
+        margin-top: 20px;
+    }
+    .more-q-A-datails ul li a {
+        width: 100%;
+        padding: 20px 10px 20px 10px;
+        gap: 10px;
+    }
+    .more-q-A-datails ul li a {
+        width: 100%;
+        padding: 20px 10px 20px 10px;
+        gap: 10px;
+        font-size: 15px;
+    }
+    .ctm-link {
+        display: flex;
+        align-items: center;
+        margin: 20px 0;
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 576px) {
+    .end-page {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px 0 0;
+    }
+
+    .sub-header {
+        min-height: 300px;
+    }
+
+    .title-page {
+        margin: 60px 0 20px;
+        text-align: center;
+    }
+
+    .title-page h2 {
+        font-size: 19px;
+        line-height: 30px;
+    }
+
+    .title-start h2 {
+        white-space: nowrap;
+        padding: 0 11px 0px 20px;
+        font-size: 20px;
+        position: relative;
+    }
+
+    .title-start h2::after {
+
+        background-position: right;
+
+    }
+
+    .text-details h2 {
+        margin: 15px 0;
+        font-size: 15px;
+    }
+
+    .img-sub-videos,
+    .img-sub-calculators {
+        height: 245px;
+        width: 100%;
+        position: relative;
+    }
+
+    .search-two input {
+        background-color: #DCF4F6 !important;
+        border: 1px solid #DCF4F6 !important;
+    }
+
+    .main-videos,
+    .main-calculators {
+        margin-top: 20px;
+    }
+
+    .sub-article-details {
+        width: 100%;
+    }
+
+    .img-article-details {
+        height: 220px;
+    }
+
+    .sections-human-organ-categories ul li {
+        width: 100%;
+    }
+
+    .sections-human-organ-categories ul li a {
+        font-size: 18px;
+    }
+
+    .sections-human-organ-categories ul {
+        gap: 10px;
+    }
+
+    .share-article {
+        flex-wrap: wrap;
+    }
+
+    .share-article ul {
+        margin: 10px 0;
+        width: 100%;
+    }
+
+    .share-article ul li a img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .title-related-topics {
+        height: 60px;
+    }
+
+    .pg-section {
+        padding: 40px 0;
+    }
+
+    .sub-silder-advice p {
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        line-height: 26px;
+    }
+
+    .silder-advice::before {
+        width: 55px;
+        height: 55px;
+    }
+
+    .silder-advice::after {
+        width: 55px;
+        height: 55px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 250px;
+    }
+
+    .img-human-organ-categories {
+        width: 180px;
+        height: 180px;
+        padding: 11px 35px;
+    }
+
+    .text-human-organ-categories p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+
+    .form-login-page form {
+        width: 100%;
+        margin: 30px auto;
+    }
+
+    .logo-login {
+        width: 70%;
+        margin: auto;
+    }
+
+    .logo-login {
+        width: 70%;
+        margin: auto;
+    }
+
+    .regiester-now p a {
+        font-size: 15px;
+    }
+
+    .form-register-page .btn-login {
+        width: 100%;
+        margin: 30px auto;
+    }
+    .sub-medicine-health {
+        height: 290px;
+        position: relative;
+        margin: 10px 0;
+    }
+
+
+}
+
+@media (max-width: 450px) {
+    .text-read-also-article p {
+        margin-top: 10px;
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .sub-read-also-article:nth-of-type(1) .img-read-also-article {
+        width: 100%;
+        height: 200px;
+    }
+
+    .search-header {
+        width: 100%;
+    }
+
+    .search-header input {
+        background-color: var(--color-white);
+        border: none;
+        height: 45px;
+        font-size: 17px;
+        padding-left: 70px;
+        border-radius: 30px;
+    }
+
+    .search-header button {
+        width: 38px;
+        height: 38px;
+
+    }
+
+    .img-read-also-article {
+        width: 100%;
+    }
+
+    .text-read-also-article {
+        width: 100%;
+    }
+
+}
