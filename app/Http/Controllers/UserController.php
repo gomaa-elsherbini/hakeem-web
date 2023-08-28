@@ -25,7 +25,7 @@ class UserController extends Controller
             'last_name'=>'required|string|max:255',
             'country'=>'required|string|max:255',
             'email'=>'required|email|string|max:255|unique:users',
-            'password'=>'required|string|confirmed',
+            'password'=>'required|string|confirmed|min:8',
             'date_of_birth'=>'nullable|date',
             'gender'=>'nullable|in:male,female',
             'accept'=>'required|accepted',
